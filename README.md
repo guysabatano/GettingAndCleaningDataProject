@@ -1,5 +1,9 @@
 GettingAndCleaningDataProject
 =============================
+The data is cleaned by running the run_analysis.R.
+
+To run download and unzip the data sources into the working directory and run the script.
+
 
 Getting and Cleaning Data Project
 
