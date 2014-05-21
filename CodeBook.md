@@ -3,7 +3,10 @@
 * subject
 * activity
 * activityid
+* 
 ##All of the following variables are averages by subject and activity.
+
+
 * tBodyAccstd()X
 * tBodyAccstd()Y
 * tBodyAccstd()Z
